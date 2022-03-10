@@ -131,7 +131,7 @@ Recall (Pneumonia)      : 99.0% (For positive class)
 
 ## For More Information
 
-Please review my full analysis in ![my Jupyter Notebook (/Pneumonia_Detection_InChest_X_Rays_using_CNN.ipynb).
+Please review my full analysis in ![my Jupyter Notebook] (/Pneumonia_Detection_InChest_X_Rays_using_CNN.ipynb).
 
 For any additional questions,
 please contact:
