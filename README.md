@@ -89,7 +89,7 @@ Results
 Our model,CNN came back with a confusion matrix that produced a 91% accuracy score and a 99% recall score. For our purposes, we were looking to minimize recall as we want to reduce the amount of False positives (False negatives: Patients got negative results but has actually has Pneumonia).
 
 
-##Model Parameters
+## Model Parameters
 Machine Learning Library: Keras
 Base Model              : Custom Deep Convolutional Neural Network
 
